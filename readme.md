@@ -51,4 +51,4 @@ In this course, you will learn how to:
 - Apply machine learning to a real-life business problem after the course is complete
 
 ### Will we work on practical use cases and scenarios?
-After the 4 days training, 4 use cases will be provided for the team in a month, and they will build their ML models to address these problems.
+After the 4 days training, 4 use cases will be provided for the team in a month, and they will build their ML models to address these problems. It is currently work in progress but here is link to use cases repo https://github.com/EG-Digital-Opportunity/usecases
