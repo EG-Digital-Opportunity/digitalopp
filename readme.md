@@ -55,3 +55,26 @@ After the 4 days training, 4 use cases will be provided for the team in a month,
 
 ### Where can I learn more about Amazon Web Services tools for data science?
 This book is very comprehensive and will help you to use many other AWS tools for data lake and data science https://www.datascienceonaws.com/
+
+### Does AWS offer any public data sets?
+Yes it is called The Registry of Open Data on AWS, where it makes it easy to find datasets made publicly available through AWS services. Browse available data and learn how to register your own datasets. https://registry.opendata.aws/
+
+### Where can I participate in ML competitions?
+Kaggle is one of the most popular https://www.kaggle.com/
+Also AWS DeepRacer is a good place to compete and have fun.
+
+### What is AWS DeepRacer?
+AWS DeepRacer Evo is the next generation in autonomous racing. It comes fully equipped with stereo cameras and LiDAR sensor to enable object avoidance and head-to-head racing, giving developers everything they need to take their racing to the next level. In object avoidance races, developers use the sensors to detect and avoid obstacles placed on the track. In head-to-head, developers race against another DeepRacer on the same track and try to avoid it while still turning in the best lap time. Forward facing left and right cameras make up the stereo cameras, which helps the car learn depth information in images. This information can then be used to sense and avoid objects being approached on the track. The LiDAR sensor is backward facing and detects objects behind and beside the car.
+
+![alt text](https://d1.awsstatic.com/deepracer/Evo%20and%20Sensor%20Launch%202020/DeepRacer%20Evo%207_13.aba7e95190a39608b4fd0152d8300652e4add1f2.png)
+
+### What is AWS DeepLens?
+It is the world’s first deep learning enabled video camera for developers AWS DeepLens helps put machine learning in the hands of developers, literally, with a fully programmable video camera, tutorials, code, and pre-trained models designed to expand deep learning skills.
+
+![alt text](https://d1.awsstatic.com/DeepCamAssets/UK-DeepLens-Desktop.c59aca85ccd4beb3f7d652f490ea45bb7dbf8954.png)
+
+### What is AWS DeepComposer?
+AWS DeepComposer gives developers a creative way to get started with machine learning. Get hands-on, literally, with a musical keyboard and the latest machine learning techniques, designed to expand your ML skills. 
+
+![alt text](https://d1.awsstatic.com/re19/Gemini/gemini_day1_shot1_MAIN-waves-2.8a778e27451eecc589acf04dfcb9ddee15240c2e.png)
+
