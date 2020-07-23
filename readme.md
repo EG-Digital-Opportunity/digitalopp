@@ -66,7 +66,7 @@ Also AWS DeepRacer is a good place to compete and have fun.
 ### What is AWS DeepRacer?
 AWS DeepRacer Evo is the next generation in autonomous racing. It comes fully equipped with stereo cameras and LiDAR sensor to enable object avoidance and head-to-head racing, giving developers everything they need to take their racing to the next level. In object avoidance races, developers use the sensors to detect and avoid obstacles placed on the track. In head-to-head, developers race against another DeepRacer on the same track and try to avoid it while still turning in the best lap time. Forward facing left and right cameras make up the stereo cameras, which helps the car learn depth information in images. This information can then be used to sense and avoid objects being approached on the track. The LiDAR sensor is backward facing and detects objects behind and beside the car.
 
-![alt text](https://d1.awsstatic.com/deepracer/Evo%20and%20Sensor%20Launch%202020/DeepRacer%20Evo%207_13.aba7e95190a39608b4fd0152d8300652e4add1f2.png){width=300}
+![alt text](https://d1.awsstatic.com/deepracer/Silverstone/Silverstone-PDP-Image_RIGHT-FACING.f813d2eebc44c388bfa6c007cc2810e885c8ea98.png)
 
 ### What is AWS DeepLens?
 It is the world’s first deep learning enabled video camera for developers AWS DeepLens helps put machine learning in the hands of developers, literally, with a fully programmable video camera, tutorials, code, and pre-trained models designed to expand deep learning skills.
