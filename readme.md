@@ -1,4 +1,4 @@
-# Egypt Digital Opportunity Machine Learning Opportunity
+# Egypt Digital Opportunity Machine Learning 
 This is an evolving repoistory to share links, materials and notebooks to help trainees to learn more and succeed with their Machine Learning endeavor.
 
 ## FAQ
